@@ -1,0 +1,14 @@
+.primera {
+    border: 1px red solid;
+}
+.segunda {
+    border: 3px blue solid;
+}
+.tercera {
+    text-align: center;
+}
+.cuarta {
+    border: 1px red solid;
+    width: 30%;
+    text-align: center;
+}
